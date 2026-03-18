@@ -7,7 +7,7 @@
 
 > **Production-grade ML system for automated customer support ticket classification using fine-tuned DistilBERT achieving 94% accuracy**
 
-Led end-to-end development and deployment as **Project Captain at Thrive Africa**, managing a team of 40+ interns while personally owning the complete CI/CD pipeline and production infrastructure.
+Led end-to-end development and deployment.
 
 ---
 
@@ -121,7 +121,7 @@ PulseDesk AI is an intelligent customer support ticket classification system tha
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/dkumi12/Customer-Support-Classifier-.git
+git clone https://github.com/emmzytamara/Customer-Support-Classifier.git
 cd Customer-Support-Classifier-
 ```
 
