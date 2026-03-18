@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+transformers
+torch
+safetensors
+python-multipart
+pydantic
+requests
+numpy
+pandas
+tqdm
+scikit-learn
+mlflow
+prometheus-client

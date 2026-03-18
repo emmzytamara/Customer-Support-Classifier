@@ -1,0 +1,30 @@
+# Ignore model weights
+model/
+*.bin
+*.safetensors
+*.h5
+*.pt
+
+# Ignore environment files
+.env
+*.env
+
+# Ignore build + cache
+__pycache__/
+*.pyc
+
+# Ignore node modules (if UI uses React)
+ui/node_modules/
+
+# Ignore EC2 install scripts
+get-docker.sh
+fix_docker.sh
+
+# Ignore virtual environments
+venv/
+env/
+.venv/
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
